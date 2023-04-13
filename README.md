@@ -9,7 +9,7 @@ Para usar a biblioteca mailio no visual studio (tive muito problema pra intalar 
 
 Pronto, ela está em uso no seu Visual Studio 2022 (esses passos funcionaram comigo, não sei se vai funcionar completamente).
 
-=====================================================================================================================================
+============================================================================================
 
 To use the mailio library in visual studio (I had a lot of trouble installing it, but it's simple), choose a place to install it, then open cmd as administrator, go to the location of the folder and follow the sequence of commands:
 
